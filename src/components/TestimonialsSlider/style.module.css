@@ -1,0 +1,3 @@
+.slider [class*="slick-slide"] > div {
+  margin: 0 15px;
+}

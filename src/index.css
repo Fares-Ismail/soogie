@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+@custom-variant rtl (&:where([dir="rtl"], [dir="rtl"] *));
+@custom-variant ltr (&:where([dir="ltr"], [dir="ltr"] *));
+
+* {
+  font-family: "Tajawal", serif;
+}
+
+@theme {
+  --color-main-100: oklch(0.95 0.11 142);
+  --color-main-200: oklch(0.85 0.12 142);
+  --color-main-300: oklch(0.75 0.13 142);
+  --color-main-400: oklch(0.65 0.14 142);
+  --color-main-500: oklch(0.55 0.15 142);
+  --color-main-600: oklch(0.45 0.16 142);
+  --color-main-700: oklch(0.35 0.17 142);
+  --color-main-800: oklch(0.25 0.18 142);
+  --color-main-900: oklch(0.15 0.19 142);
+
+  /* --color-main-100: #e6fdef;
+  --color-main-200: #baf5d3; 
+  --color-main-300: #8eecb7; 
+  --color-main-400: #62e49b; 
+  --color-main-500: #00e382; 
+  --color-main-600: #00b669;
+  --color-main-700: #009153; 
+  --color-main-800: #006d3e; 
+  --color-main-900: #004a29; */
+}

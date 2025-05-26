@@ -1,0 +1,8 @@
+.slider [class*="slick-slide"] > div {
+  margin: 0 15px;
+}
+/* تمكين تحسينات الأداء للانتقالات */
+.splide__slide {
+  will-change: transform, opacity;
+  transition: transform 0.3s ease-out; /* تحديد تأثير الانتقال */
+}

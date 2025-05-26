@@ -1,0 +1,98 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "collections": "المجموعات",
+    "contactUs": "إتصل بنا",
+    "yourProfile": "ملفك الشخصي",
+    "settings": "الإعدادات",
+    "signout": "تسجيل خروج",
+    "search": "إبحث عن منتج"
+  },
+
+  "home": {
+    "heroHeading": "ارفع تجربتك في التسوق مع سوقي",
+    "heroDescription": "قم برفع مستوى تجربتك في التسوق إلى مستوى جديد تمامًا مع اختيارات سوجي المختارة بعناية، مضمونة لتكون كل عملية شراء اكتشافًا ممتعًا مصممًا خصيصًا لك",
+    "hShoppingButton": "ابدأ التسوق الآن",
+    "hSellingButton": "ابدأ البيع اليوم",
+    "catHeading": "تصفح بواسطة الفئة",
+    "productsHeading": "المنتجات الجديدة",
+    "buyNow": "إشتري الآن",
+    "ourCollections": "تشكيلاتنا",
+    "contactHeading": "إتصل بنا",
+
+    "contact": {
+      "label": {
+        "firstName": "الاسم الأول",
+        "lastName": "الاسم الأخير",
+        "job": "الوظيفة",
+        "email": "البريد الإلكتروني",
+        "phoneNumber": "رقم الهاتف",
+        "message": "رسالة",
+        "send": "إرسال"
+      },
+      "placeholder": {
+        "firstName": "قم بكتابة الإسم هنا...",
+        "lastName": "قم بكتابة الإسم الثاني هنا...",
+        "email": "مثال: example@email.com",
+        "country": "رمز الدولة",
+        "phoneNumber": "مثال: 123-456-789 ",
+        "message": "ضع رسالتك هنا"
+      }
+    },
+
+    "statsDescription": "موثوق به من قبل الآلاف من العملاء في جميع أنحاء العالم",
+
+    "stats": {
+      "registeredUsersTitle": "المستخدمين المسجلين",
+      "registeredUsersValue": " مليون",
+      "dailyOrdersTitle": "الطلبات اليومية",
+      "dailyOrdersValue": " مليون",
+      "globalReachTitle": "الوصول العالمي",
+      "globalReachValue": " دولة",
+      "monthlyRevenueTitle": "الإيرادات",
+      "monthlyRevenueValue": " مليار"
+    },
+
+    "stepsHeading": "خطوات التسحيل كتاجر في سوقي",
+    "bannerHeading": "اكتشف أسلوبك مع مجموعتنا الأحدث",
+    "bannerDescription": "استكشف مجموعة واسعة من قطع الأزياء العصرية لكل مناسبة. تسوق الآن لتحصل على عروض وخصومات حصرية!",
+    "testimonialsHeading": "ما يقوله عملاؤنا عنا",
+    "testimonialsDescription": "نحن نفخر بتوفير خدمة ممتازة ومنتجات عالية الجودة لضمان رضا العملاء",
+    "clientsDescription": "موثوق به من قبل الشركات الأكثر ابتكارا في العالم"
+  },
+
+  "footer": {
+    "aboutUs": "شركتنا ملتزمة بتوفير أفضل تجربة تسوق لعملائنا. مع مجموعة واسعة من المنتجات عالية الجودة وخدمة عملاء استثنائية، نحن نسعى لتجاوز توقعاتك. تسوق معنا واستمتع برحلة تسوق سهلة وممتعة.",
+    "companyList": {
+      "title": "الشركة",
+      "about": "حول",
+      "careers": "الوظائف",
+      "brandCenter": "مركز العلامة التجارية",
+      "blog": "المدونة",
+      "helpCenter": "مركز المساعدة"
+    },
+    "helpCenterList": {
+      "title": "مركز المساعدة",
+      "discordServer": "خادم Discord",
+      "twitter": "تويتر",
+      "facebook": "فيسبوك",
+      "contactUs": "اتصل بنا"
+    },
+    "legalList": {
+      "title": "قانوني",
+      "privacyPolicy": "سياسة الخصوصية",
+      "licensing": "تراخيص",
+      "termsConditions": "الشروط والأحكام"
+    },
+    "downloadList": {
+      "title": "تحميل",
+      "IOS": "IOS",
+      "android": "أندرويد",
+      "windows": "ويندوز",
+      "macOS": "ماك أو إس"
+    },
+    "copyRight": "كل الحقوق محفوظة",
+    "siteName": "سوقي"
+  }
+}

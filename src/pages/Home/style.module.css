@@ -1,0 +1,51 @@
+html{
+  overflow-y: visible !important;
+  padding-right: 0 !important;
+}
+.hero,
+.banner {
+  height: calc(100vh - 64px);
+  background-size: cover;
+  position: relative;
+}
+
+.hero {
+  background: url("../../assets/images/hero_cover.webp") scroll;
+}
+
+.banner {
+  background: url("../../assets/images/banner_cover.webp") scroll;
+}
+
+.banner::before,
+.hero::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: #000c;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+.banner::after,
+.hero::after {
+  content: "";
+  height: 50%;
+  aspect-ratio: 1 / 1;
+  background: var(--color-main-500);
+  border-radius: 0 0 100% 0;
+  box-shadow: 0 0 10px 10px var(--color-main-600);
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+[dir="rtl"] .banner::after,
+[dir="rtl"] .hero::after {
+  right: 0;
+  border-radius: 0 0 0 100%;
+}

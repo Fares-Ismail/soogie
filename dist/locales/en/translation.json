@@ -1,0 +1,98 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "collections": "Collections",
+    "contactUs": "Contact Us",
+    "yourProfile": "Your Profile",
+    "settings": "Settings",
+    "signout": "Signout",
+    "search": "Search for a product"
+  },
+
+  "home": {
+    "heroHeading": "Elevate Your Shopping Experience with Soogie",
+    "heroDescription": "Enhance your shopping experience to a whole new level with Soogie's meticulously curated selection of the finest products, ensuring each purchase is a delightful discovery tailored just for you",
+    "hShoppingButton": "Start Shopping Now",
+    "hSellingButton": "Start Selling Today",
+    "catHeading": "Browse By Category",
+    "productsHeading": "Newest Products",
+    "buyNow": "Buy Now",
+    "ourCollections": "Our Collections",
+    "contactHeading": "Contact Us",
+
+    "contact": {
+      "label": {
+        "firstName": "First name",
+        "lastName": "Last name",
+        "job": "Job",
+        "email": "Email",
+        "phoneNumber": "Phone number",
+        "message": "Message",
+        "send": "Send"
+      },
+      "placeholder": {
+        "firstName": "Type the name here...",
+        "lastName": "Type the last name here...",
+        "email": "Example: example@email.com",
+        "country": "Country Code",
+        "phoneNumber": "Example: 123-456-899 ",
+        "message": "Type your message here..."
+      }
+    },
+
+    "statsDescription": "Trusted by thousands of clients worldwide",
+
+    "stats": {
+      "registeredUsersTitle": "Registered Users",
+      "registeredUsersValue": "M",
+      "dailyOrdersTitle": "Daily Orders",
+      "dailyOrdersValue": "M",
+      "globalReachTitle": "Global Reach",
+      "globalReachValue": " countries",
+      "monthlyRevenueTitle": "Revenue",
+      "monthlyRevenueValue": "B"
+    },
+
+    "stepsHeading": "Steps to register as a merchant in Soogie",
+    "bannerHeading": "Discover Your Style with Our Latest Collection",
+    "bannerDescription": "Explore a Wide Range of Trendy Fashion Pieces for Every Occasion. Shop Now for Exclusive Deals and Discounts!",
+    "testimonialsHeading": "what our customers say about us",
+    "testimonialsDescription": "We take pride in providing top-notch service and quality products to ensure customer satisfaction",
+    "clientsDescription": "Trusted by the world’s most innovative companies"
+  },
+
+  "footer": {
+    "aboutUs": "Our company is dedicated to providing the best shopping experience for our customers. With a wide range of high-quality products and exceptional customer service, we strive to exceed your expectations. Shop with us and experience a seamless and enjoyable shopping journey.",
+    "companyList": {
+      "title": "Company",
+      "about": "About",
+      "careers": "Careers",
+      "brandCenter": "Brand Center",
+      "blog": "Blog",
+      "helpCenter": "Help Center"
+    },
+    "helpCenterList": {
+      "title": "Help Center",
+      "discordServer": "Discord Server",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "contactUs": "Contact Us"
+    },
+    "legalList": {
+      "title": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "licensing": "Licensing",
+      "termsConditions": "Terms & Conditions"
+    },
+    "downloadList": {
+      "title": "Download",
+      "IOS": "IOS",
+      "android": "Android",
+      "windows": "Windows",
+      "macOS": "MacOS"
+    },
+    "copyRight": "All Rights Reserved",
+    "siteName": "Soogie"
+  }
+}
